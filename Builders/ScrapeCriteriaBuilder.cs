@@ -34,7 +34,7 @@ namespace SimpleWebScraper.Builders
          _data = string.Empty;
          _regex = string.Empty;
         _regexOption = RegexOptions.None;
-        _parts = new List<ScraperCriteriaPart>();
+        _parts = new List<ScrapeCriteriaPart>();
     }
         public ScrapeCriteriaBuilder WithData(string data)
         {
