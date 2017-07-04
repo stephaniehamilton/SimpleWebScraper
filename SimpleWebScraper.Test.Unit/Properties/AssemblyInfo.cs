@@ -5,15 +5,14 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SimpleWebScraper")]
+[assembly: AssemblyTitle("SimpleWebScraper.Test.Unit")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SimpleWebScraper")]
+[assembly: AssemblyProduct("SimpleWebScraper.Test.Unit")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: InternalsVisibleTo("SimpleWebScraper.Test.Unit")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
@@ -21,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f7bae1b5-a561-412a-92f1-b8a550674c76")]
+[assembly: Guid("bfb5a05f-6ead-4edf-9836-0fb8ecc836e1")]
 
 // Version information for an assembly consists of the following four values:
 //
